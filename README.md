@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Maxime CHEVALIER 👋
 
+## I'm a junior Developer, hardware Passionate, video games Player and terrible Glider !
+
+🌱 I'm currently learning automation using Katalon Studio
 <!--
 **Urkair/Urkair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
