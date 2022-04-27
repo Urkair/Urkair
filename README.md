@@ -2,7 +2,7 @@
 
 ## I'm a junior Developer, hardware Passionate, video games Player and terrible Glider !
 
-🌱 I'm currently learning automation using Katalon Studio
+🌱 I'm currently learning automation using Katalon Studio ![Katalon Studio](https://user-images.githubusercontent.com/49071026/165519366-b6767903-3a72-4edb-8fc5-9282840e55fc.png) and back-end developments with Spring !
 <!--
 **Urkair/Urkair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
