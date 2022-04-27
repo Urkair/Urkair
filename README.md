@@ -8,7 +8,10 @@
 ### 💻 Technical skills
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white&labelColor=383E42)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white&labelColor=383E42)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white&labelColor=383E42)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white&labelColor=383E42)
+![](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white&labelColor=383E42)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white&labelColor=383E42)
 ![](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white&labelColor=383E42)
 ![](https://img.shields.io/badge/Symfony-black?style=plastic&logo=symfony&logoColor=white&labelColor=383E42)
