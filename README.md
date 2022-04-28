@@ -3,10 +3,11 @@
 
 ### I'm a junior Developer, hardware Passionate, video games Player and terrible Glider !
 
-* 🌱 I'm currently learning automation using Katalon Studio ![Katalon Studio](https://user-images.githubusercontent.com/49071026/165519366-b6767903-3a72-4edb-8fc5-9282840e55fc.png) and front/back-end developments with Angular and Spring !
+* 💼 I'm currently working for CGI as junior developer
+* 🌱 I'm also learning automation using Katalon Studio ![Katalon Studio](https://user-images.githubusercontent.com/49071026/165519366-b6767903-3a72-4edb-8fc5-9282840e55fc.png) and front/back-end developments with Angular and Spring !
+* 🎮 I love to practice judo, play FFXIV and cook new recipes with ingredients I don't know yet
 
 ### 💻 Technical skills
-
 ![](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white&labelColor=383E42)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white&labelColor=383E42)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white&labelColor=383E42)
@@ -18,5 +19,8 @@
 
 ### 🧰 Tools
 ![](https://img.shields.io/badge/Git-F54D27?style=plastic&logo=git&logoColor=white&labelColor=383E42)
-![](https://img.shields.io/badge/GitHub-black?style=plastic&logo=github&logoColor=white&labelColor=383E42)
-![](https://img.shields.io/badge/GitLab-FC6D21?style=plastic&logo=gitlab&logoColor=white&labelColor=383E42)
+<a href="https://github.com/Urkair">![](https://img.shields.io/badge/GitHub-black?style=plastic&logo=github&logoColor=white&labelColor=383E42)</a>
+<a href="https://gitlab.com/Urkair">![](https://img.shields.io/badge/GitLab-FC6D21?style=plastic&logo=gitlab&logoColor=white&labelColor=383E42)</a>
+
+### 📱 Connect together
+* I'm not really into social media so for any purpose you can find me here : <a href="https://www.linkedin.com/in/maxime.chevaliermc/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=383E42)</a>
