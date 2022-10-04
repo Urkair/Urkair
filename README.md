@@ -3,7 +3,7 @@
 
 ### I'm a junior Developer, hardware Passionate, video games Player and terrible Glider !
 
-* 💼 I'm currently working for CGI as junior developer
+* 💼 I'm currently working for Apside as junior backend developer
 * 🌱 I'm also learning automation using Katalon Studio ![Katalon Studio](https://user-images.githubusercontent.com/49071026/165519366-b6767903-3a72-4edb-8fc5-9282840e55fc.png) and front/back-end developments with Angular and Spring !
 * 🎮 I love to practice judo, play FFXIV and cook new recipes with ingredients I don't know yet
 
