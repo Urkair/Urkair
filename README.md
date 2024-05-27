@@ -3,7 +3,7 @@
 
 ### I'm a back Java Developer, hardware Passionate, video games Player and terrible Glider !
 
-* 💼 I'm currently working for Apside as junior backend developer
+* 💼 I'm currently working for Apside as backend developer
 * 🌱 I'm also learning front/back-end developments with Angular and Spring !
 * 🎮 I love to practice judo, play FFXIV and cook new recipes with ingredients I don't know yet
 
