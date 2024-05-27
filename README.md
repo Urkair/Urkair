@@ -1,7 +1,7 @@
 ## Hi there, I'm Maxime CHEVALIER ![chevalier](https://user-images.githubusercontent.com/49071026/165537276-7fd03b3e-1bab-4196-bb93-56efc5e9a436.png)
 <!-- "https://www.flaticon.com/fr/icones-gratuites/chevalier" title="chevalier icônes" Chevalier icon created by Freepik - Flaticon -->
 
-### I'm a junior Developer, hardware Passionate, video games Player and terrible Glider !
+### I'm a back Java Developer, hardware Passionate, video games Player and terrible Glider !
 
 * 💼 I'm currently working for Apside as junior backend developer
 * 🌱 I'm also learning front/back-end developments with Angular and Spring !
